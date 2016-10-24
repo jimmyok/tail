@@ -1,3 +1,4 @@
+// Package tail only deals with files, this is incomplete, it needs to be able to deal with streams and pipes.
 package main
 
 import (
